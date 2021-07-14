@@ -2,7 +2,7 @@
 
 Here is a fun JSON of Dutch digital agencies to practice data transformations with
 
-- Includes 600+ agencies (20000)
+- Includes 600+ agencies (20000 lines of JSON)
 - Includes meta data like disciplines and tags
 
 ## How to use
