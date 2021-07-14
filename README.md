@@ -20,17 +20,17 @@ Here is a fun JSON of Dutch digital agencies to practice data transformations wi
 
 ### Agencies:
 
-Get all agencies: [http://localhost:4000/agencies](http://localhost:4000/agencies)
-Get all agencies in Amsterdam: [http://localhost:4000/agencies?city=Amsterdam](http://localhost:4000/agencies?city=Amsterdam)
-Get all agencies with the tag Wordpress: [http://localhost:4000/agencies?tags_like=Wordpress](http://localhost:4000/agencies?tags_like=Wordpress)
+- Get all agencies: [http://localhost:4000/agencies](http://localhost:4000/agencies)
+- Get all agencies in Amsterdam: [http://localhost:4000/agencies?city=Amsterdam](http://localhost:4000/agencies?city=Amsterdam)
+- Get all agencies with the tag Wordpress: [http://localhost:4000/agencies?tags_like=Wordpress](http://localhost:4000/agencies?tags_like=Wordpress)
 
 For more info visit [https://github.com/typicode/json-server#filter](https://github.com/typicode/json-server#filter) docs
 
 ### Meta data
 
-An object with all the branches and how many agencies work in this branch: [http://localhost:4000/branches](http://localhost:4000/branches)
-An object with all the disciplines and how many agencies practice this discipline: [http://localhost:4000/disciplines](http://localhost:4000/disciplines)
-An object with all the tags and how many agencies have this tag: [http://localhost:4000/tags](http://localhost:4000/tags)
+- An object with all the branches and how many agencies work in this branch: [http://localhost:4000/branches](http://localhost:4000/branches)
+- An object with all the disciplines and how many agencies practice this discipline: [http://localhost:4000/disciplines](http://localhost:4000/disciplines)
+- An object with all the tags and how many agencies have this tag: [http://localhost:4000/tags](http://localhost:4000/tags)
 
 - Want an array instead of this meta information instead? (so you can map over it?)
 
