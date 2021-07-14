@@ -1,0 +1,13 @@
+{
+  "name": "agencydata",
+  "version": "1.0.0",
+  "description": "JSON data from dutch agencies",
+  "scripts": {
+    "start": "npx json-server db.json --port 4000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
