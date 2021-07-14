@@ -18,7 +18,7 @@ Here is a fun JSON of Dutch digital agencies to practice data transformations wi
 
 (start the server first to make these links work)
 
-### Agencies:
+### Agencies
 
 - Get all agencies: [http://localhost:4000/agencies](http://localhost:4000/agencies)
 - Get all agencies in Amsterdam: [http://localhost:4000/agencies?city=Amsterdam](http://localhost:4000/agencies?city=Amsterdam)
@@ -31,6 +31,8 @@ For more info visit [https://github.com/typicode/json-server#filter](https://git
 - An object with all the branches and how many agencies work in this branch: [http://localhost:4000/branches](http://localhost:4000/branches)
 - An object with all the disciplines and how many agencies practice this discipline: [http://localhost:4000/disciplines](http://localhost:4000/disciplines)
 - An object with all the tags and how many agencies have this tag: [http://localhost:4000/tags](http://localhost:4000/tags)
+- An object with all the region and how many agencies have this region: [http://localhost:4000/regions](http://localhost:4000/regions)
+- An object with all the cities and how many agencies are from this city: [http://localhost:4000/cities](http://localhost:4000/cities)
 
 - Want an array instead of this meta information instead? (so you can map over it?)
 
